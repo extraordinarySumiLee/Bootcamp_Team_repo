@@ -1,0 +1,14 @@
+This is a manual for Repository 
+
+[clone code]
+git clone <url> ==> i.e. git clone https://github.com/extraordinarySumiLee/Bootcamp_Team_repo
+
+[Creating Branch]
+git branch <Branch name> ==> It makes branch
+git branch ==> Check all the branches that you've made
+git switch <Branch name> ==> Switch the branch
+
+[After making a file or directory]
+git add <file name>
+git commit -m '<comment>'
+git push ==> update your local computer condition to github
